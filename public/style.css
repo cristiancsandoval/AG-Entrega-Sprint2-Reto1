@@ -1,0 +1,19 @@
+/**Reseteo de estilos**/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+button, h5, h3, span {
+    font-family: 'Spartan', sans-serif;
+    font-size: 15px;
+}
+
+.d-none{
+    display: none;
+}
+
+.borde-select{
+    border-left: 5px solid hsl(180, 29%, 50%);
+}

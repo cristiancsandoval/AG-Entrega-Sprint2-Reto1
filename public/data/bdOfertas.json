@@ -1,0 +1,104 @@
+{
+    "ofertas":[
+        {
+            "empresa": "Photosnap",
+            "logo": "photosnap.svg",
+            "cargo": "Senior Frontend Developer",
+            "fecha": "1d ago",
+            "tiempo":"Full time",
+            "lugar": "USA only",
+            "categorias": ["Frontend", "Senior", "HTML", "CSS", "JavaScript"],
+            "otros": ["NEW!", "FEATURED"]
+        },
+        {
+            "empresa": "Manage",
+            "logo": "manage.svg",
+            "cargo": "Fullstack Developer",
+            "fecha": "1d ago",
+            "tiempo":"Part time",
+            "lugar": "Remote",
+            "categorias": ["Fullstack", "Midweight", "Python", "React"],
+            "otros": ["NEW!", "FEATURED"]
+        },
+        {
+            "empresa": "Account",
+            "logo": "account.svg",
+            "cargo": "Junior Frontend Developer",
+            "fecha": "2d ago",
+            "tiempo":"Part time",
+            "lugar": "USA only",
+            "categorias": ["Frontend", "Junior", "React", "Sass", "JavaScript"],
+            "otros": ["NEW!"]
+        },
+        {
+            "empresa": "MyHome",
+            "logo": "myhome.svg",
+            "cargo": "Junior Frontend Developer",
+            "fecha": "5d ago",
+            "tiempo":"Contract",
+            "lugar": "USA only",
+            "categorias": ["Frontend", "Junior", "CSS", "JavaScript"],
+            "otros": []
+        },
+        {
+            "empresa": "Loop Studios",
+            "logo": "loop-studios.svg",
+            "cargo": "Software Engineer",
+            "fecha": "1w ago",
+            "tiempo":"Full time",
+            "lugar": "Worldwide",
+            "categorias": ["Fullstack", "Midweight", "JavaScript", "Sass", "Ruby"],
+            "otros": []
+        },
+        {
+            "empresa": "FaceIt",
+            "logo": "faceit.svg",
+            "cargo": "Junior Backend Developer",
+            "fecha": "2w ago",
+            "tiempo":"Full time",
+            "lugar": "UK Only",
+            "categorias": ["Backend", "Junior", "Ruby", "RaR"],
+            "otros": []
+        },
+        {
+            "empresa": "Shortly",
+            "logo": "shortly.svg",
+            "cargo": "Junior Developer",
+            "fecha": "2w ago",
+            "tiempo":"Full time",
+            "lugar": "Worldwide",
+            "categorias": ["Frontend", "Junior", "HTML", "Sass", "JavaScript"],
+            "otros": []
+        },
+        {
+            "empresa": "Insure",
+            "logo": "insure.svg",
+            "cargo": "Junior Frontend Developer",
+            "fecha": "2w ago",
+            "tiempo":"Full time",
+            "lugar": "USA only",
+            "categorias": ["Frontend", "Junior", "Vue", "JavaScript", "Sass"],
+            "otros": []
+        },
+        {
+            "empresa": "Eyecam Co.",
+            "logo": "eyecam-co.svg",
+            "cargo": "Full Stack Engineer",
+            "fecha": "3w ago",
+            "tiempo":"Full time",
+            "lugar": "Worldwide",
+            "categorias": ["Fullstack", "Midweight", "JavaScript", "Django", "Python"],
+            "otros": []
+        },
+        {
+            "empresa": "The Air Filter Company",
+            "logo": "the-air-filter-company.svg",
+            "cargo": "Front-end Dev",
+            "fecha": "1mo ago",
+            "tiempo":"Part time",
+            "lugar": "Worldwide",
+            "categorias": ["Frontend", "Junior", "React", "Sass", "JavaScript"],
+            "otros": []
+        }
+    ]
+}
